@@ -1,5 +1,3 @@
-import logo from '../assets/logo-in-orbit.svg'
-
 import { CheckCircle2, Plus } from 'lucide-react'
 import { Button } from './ui/button'
 import { DialogTrigger } from './ui/dialog'
